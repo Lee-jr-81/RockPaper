@@ -36,6 +36,11 @@ p {
   color: #adb5bd;
 }
 
+.title {
+  color: #fff;
+  font-size: 3rem;
+}
+
 .container {
   display: flex;
   flex-direction: column;
